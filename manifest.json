@@ -5,8 +5,8 @@
   "background_color": "#575f64",
   "display": "fullscreen",
   "orientation": "portrait",
-  "Scope": "/",
-  "start_url": "/",
+  "Scope": "/fart-board/",
+  "start_url": "/fart-board/",
   "icons": [{
       "src": "../img/icons/icon-72x72.png",
       "sizes": "72x72",
