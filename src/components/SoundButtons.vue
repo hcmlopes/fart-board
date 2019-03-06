@@ -17,11 +17,15 @@ export default {
 <style>
 .buttons-grid {
   display: grid;
-  grid-template-columns: repeat(4, 80px);
-  grid-auto-rows: 80px;
+  grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+  grid-auto-rows: 1fr;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
   justify-content: center;
+  -webkit-box-pack: space-evenly;
+  -ms-flex-pack: space-evenly;
   justify-content: space-evenly;
-  grid-row-gap: 2.5rem;
+  grid-gap: 2.5rem;
   max-width: 400px;
   margin: 0 auto;
 }

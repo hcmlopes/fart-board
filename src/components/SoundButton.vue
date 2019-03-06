@@ -28,8 +28,11 @@ button {
   outline: none;
   border-radius: 50%;
   position: relative;
-  box-shadow: 8px 8px 20px 0px rgba(0, 0, 0, 0.25),
-    0px 0px 10px 0px rgba(0, 0, 0, 0.25);
+  -webkit-box-shadow: 8px 8px 20px 0 rgba(0, 0, 0, 0.25),
+    0 0 10px 0 rgba(0, 0, 0, 0.25);
+  box-shadow: 8px 8px 20px 0 rgba(0, 0, 0, 0.25), 0 0 10px 0 rgba(0, 0, 0, 0.25);
+  display: block;
+  padding: 0 0 100% 0;
 }
 
 button:active {
