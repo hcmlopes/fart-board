@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/fart-board/precache-manifest.464581472598d65e7b27b8b34d569f7c.js"
+  "/fart-board/precache-manifest.a24d22292439b886aaf2ddee05e91887.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "fart-board"});
