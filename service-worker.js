@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/WhatStinks/precache-manifest.0553bc26cf5986be87f224c6fdbca5f3.js"
+  "/fart-machine/precache-manifest.53111ecdd14ca3ff3472c1c21a9a6bac.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "fart-board"});
+workbox.core.setCacheNameDetails({prefix: "fart-machine"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
