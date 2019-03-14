@@ -1,4 +1,4 @@
-# fart-board
+# fart-machine
 
 ## Project setup
 ```
