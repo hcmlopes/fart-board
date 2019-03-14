@@ -1,15 +1,21 @@
 <template>
   <div id="app">
-    <img id="logo" alt="Fart PWA logo - bottle of poinson" src="./assets/poison.svg">
+    <Header/>
     <SoundButtons v-bind:sounds="sounds"/>
+    <Footer/>
   </div>
 </template>
 
 <script>
+import Header from "./components/Header.vue";
+import Footer from "./components/Footer.vue";
 import SoundButtons from "./components/SoundButtons.vue";
+
 export default {
   name: "app",
   components: {
+    Header,
+    Footer,
     SoundButtons
   },
   data() {
@@ -84,19 +90,13 @@ body {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  padding-top: 30px;
-  height: 100vh;
-}
-
-#logo {
-  width: 160px;
-  margin-bottom: 3rem;
+  height: 100%;
 }
 
 footer {
-  margin-top: 3rem;
+  margin-top: 1rem;
   background: #32393f;
-  padding: 1rem;
+  padding: 0.5rem;
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -105,7 +105,7 @@ footer {
 footer * {
   color: #b3c2cc;
   font-style: none;
-  font-size: 0.7rem;
-  margin: 0.6rem 0;
+  font-size: 0.6rem;
+  margin: 0.2rem 0;
 }
 </style>
