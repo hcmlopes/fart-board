@@ -1,29 +1,7 @@
 # fart-machine
 
-## Project setup
-```
-npm install
-```
+Simple PWA created with vue to learn the concepts and entertain my kids
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+[DEMO](https://hcmlopes.github.io/fart-machine/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Thanks to [Jermbo](https://github.com/jermbo) and [Damian](https://github.com/thedamian)
