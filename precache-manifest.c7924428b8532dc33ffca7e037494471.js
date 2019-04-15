@@ -1,6 +1,6 @@
 self.__precacheManifest = [
   {
-    "revision": "9239581b784698da3d053fb99a3b7f89",
+    "revision": "9af25785209e7faf290c957b827415d3",
     "url": "/fart-machine/index.html"
   },
   {
@@ -44,16 +44,16 @@ self.__precacheManifest = [
     "url": "/fart-machine/img/fart-07.cda8e0e0.svg"
   },
   {
+    "revision": "b6fa807a6be163513b8678d0d8db8375",
+    "url": "/fart-machine/img/fart-08.b6fa807a.svg"
+  },
+  {
     "revision": "575f6a1ecc9ab1c341231eeb9eb31c5f",
     "url": "/fart-machine/img/fart-09.575f6a1e.svg"
   },
   {
     "revision": "21fe49201d8e757715ce564d27414d2c",
     "url": "/fart-machine/img/fart-10.21fe4920.svg"
-  },
-  {
-    "revision": "b6fa807a6be163513b8678d0d8db8375",
-    "url": "/fart-machine/img/fart-08.b6fa807a.svg"
   },
   {
     "revision": "8ea35987f04ad875d18f96fdf0316f62",
@@ -76,10 +76,6 @@ self.__precacheManifest = [
     "url": "/fart-machine/img/fart-03.af94b389.svg"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/fart-machine/robots.txt"
-  },
-  {
     "revision": "b22c6118dd74b89fb96618ee7fa2fe33",
     "url": "/fart-machine/sounds/fart-01.mp3"
   },
@@ -88,8 +84,12 @@ self.__precacheManifest = [
     "url": "/fart-machine/sounds/fart-05.mp3"
   },
   {
-    "revision": "ad4d117792b7080c1485",
-    "url": "/fart-machine/js/chunk-vendors.a94e7df9.js"
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/fart-machine/robots.txt"
+  },
+  {
+    "revision": "3385ff5925dce174ae44b0afbdea71b9",
+    "url": "/fart-machine/sounds/fart-08.mp3"
   },
   {
     "revision": "6d8dbb5bea4e68a8686928ccce1e5bfe",
@@ -108,12 +108,12 @@ self.__precacheManifest = [
     "url": "/fart-machine/sounds/fart-07.mp3"
   },
   {
-    "revision": "3385ff5925dce174ae44b0afbdea71b9",
-    "url": "/fart-machine/sounds/fart-08.mp3"
-  },
-  {
     "revision": "e2f59417bbfeee76d3ea79cc82c3b9e0",
     "url": "/fart-machine/img/logo.e2f59417.svg"
+  },
+  {
+    "revision": "ad4d117792b7080c1485",
+    "url": "/fart-machine/js/chunk-vendors.a94e7df9.js"
   },
   {
     "revision": "3ee6dad32f26092f8b8be7e3714c268f",

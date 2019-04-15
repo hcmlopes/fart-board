@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/fart-machine/precache-manifest.53111ecdd14ca3ff3472c1c21a9a6bac.js"
+  "/fart-machine/precache-manifest.c7924428b8532dc33ffca7e037494471.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "fart-machine"});
