@@ -1,6 +1,6 @@
 self.__precacheManifest = [
   {
-    "revision": "9af25785209e7faf290c957b827415d3",
+    "revision": "4a1326a691ee1ce041874037b81e7be3",
     "url": "/fart-machine/index.html"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/fart-machine/sounds/fart-11.mp3"
   },
   {
-    "revision": "4f24c1b94ea4207ba47c1e69ac225096",
-    "url": "/fart-machine/favicon-32x32.png"
+    "revision": "28e116fe6b1212c91aa5a850e7f4a4cf",
+    "url": "/fart-machine/favicon-16x16.png"
   },
   {
     "revision": "b71dacaf99ecb4ecd66bebee601f75ef",
@@ -88,8 +88,8 @@ self.__precacheManifest = [
     "url": "/fart-machine/robots.txt"
   },
   {
-    "revision": "3385ff5925dce174ae44b0afbdea71b9",
-    "url": "/fart-machine/sounds/fart-08.mp3"
+    "revision": "ad4d117792b7080c1485",
+    "url": "/fart-machine/js/chunk-vendors.a94e7df9.js"
   },
   {
     "revision": "6d8dbb5bea4e68a8686928ccce1e5bfe",
@@ -108,20 +108,20 @@ self.__precacheManifest = [
     "url": "/fart-machine/sounds/fart-07.mp3"
   },
   {
-    "revision": "e2f59417bbfeee76d3ea79cc82c3b9e0",
-    "url": "/fart-machine/img/logo.e2f59417.svg"
+    "revision": "3385ff5925dce174ae44b0afbdea71b9",
+    "url": "/fart-machine/sounds/fart-08.mp3"
   },
   {
-    "revision": "ad4d117792b7080c1485",
-    "url": "/fart-machine/js/chunk-vendors.a94e7df9.js"
+    "revision": "e2f59417bbfeee76d3ea79cc82c3b9e0",
+    "url": "/fart-machine/img/logo.e2f59417.svg"
   },
   {
     "revision": "3ee6dad32f26092f8b8be7e3714c268f",
     "url": "/fart-machine/img/fart-01.3ee6dad3.svg"
   },
   {
-    "revision": "28e116fe6b1212c91aa5a850e7f4a4cf",
-    "url": "/fart-machine/favicon-16x16.png"
+    "revision": "4f24c1b94ea4207ba47c1e69ac225096",
+    "url": "/fart-machine/favicon-32x32.png"
   },
   {
     "revision": "d9d5e63897079d9279f0",
